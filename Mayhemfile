@@ -2,4 +2,4 @@ project: cc500
 target: cc500
 
 cmds:
-  - cmd: /cc500/cc500
+  - cmd: /cc500
